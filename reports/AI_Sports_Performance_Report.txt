@@ -1,0 +1,46 @@
+
+==================================================
+          AI SPORTS PERFORMANCE REPORT
+==================================================
+
+Generated On:
+25-08-2026 22:30:06
+
+--------------------------------------------------
+PLAYER DETAILS
+--------------------------------------------------
+
+Player Name        : Demo Player
+Sport              : Football
+
+--------------------------------------------------
+PERFORMANCE ANALYSIS
+--------------------------------------------------
+
+Performance Score  : 68.79/100
+Performance Level  : Good
+
+--------------------------------------------------
+VIDEO ANALYSIS
+--------------------------------------------------
+
+Frames Analyzed    : 240
+Movement Score     : 68.79/100
+
+--------------------------------------------------
+AI RECOMMENDATION
+--------------------------------------------------
+
+Good movement performance. Continue regular practice and improve movement consistency.
+
+--------------------------------------------------
+CONCLUSION
+--------------------------------------------------
+
+The AI system analyzed the available performance
+and video movement data and generated an overall
+performance assessment.
+
+==================================================
+       AI SPORTS PERFORMANCE ANALYZER
+==================================================
