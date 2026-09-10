@@ -28,8 +28,8 @@ st.set_page_config(
 # LOAD DATA
 # -------------------------------------------------
 
-DATA_PATH = "data/sports_performance.csv"
-MODEL_PATH = "models/performance_model.pkl"
+DATA_PATH = os.path.join(PROJECT_ROOT, "data", "sports_performance.csv")
+MODEL_PATH = os.path.join(PROJECT_ROOT, "models", "performance_model.pkl")
 
 df = pd.read_csv(DATA_PATH)
 
